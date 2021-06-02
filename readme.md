@@ -1,0 +1,3 @@
+# Transformer Visualize
+
+一个简单的transformer模型可视化程序，将模型attention层输出，并将其使用matplotlib可视化
